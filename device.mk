@@ -26,6 +26,10 @@ $(call inherit-product, device/htc/msm8960-common/msm8960.mk)
 # The gps config appropriate for this device
 PRODUCT_COPY_FILES += device/htc/dlx/gps/gps.conf:system/etc/gps.conf
 
+# Boot animation
+TARGET_SCREEN_HEIGHT := 1920
+TARGET_SCREEN_WIDTH := 1080
+
 # Ramdisk
 PRODUCT_PACKAGES += \
     fstab.dlx \
