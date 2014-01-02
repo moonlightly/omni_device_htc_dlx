@@ -2,7 +2,8 @@
   {
     "remote":      "github",
     "repository":  "wrapped/omni_device_htc_dlx",
-    "target_path": "device/htc/dlx"
+    "target_path": "device/htc/dlx",
+    "revision":    "android-4.4"
   },
   {
     "remote":      "github",
