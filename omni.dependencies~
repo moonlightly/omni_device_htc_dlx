@@ -6,14 +6,14 @@
   },
   {
     "remote":      "github",
-    "repository":  "SlimRoms/android_kernel_htc_m7",
+    "repository":  "CyanogenMod/android_kernel_htc_m7",
     "target_path": "kernel/htc/m7",
-    "revision":    "kk4.4"
+    "revision":    "cm-11.0"
   },
   {
     "remote":      "github",
-    "repository":  "SlimRoms/device_htc_msm8960-common",
+    "repository":  "CyanogenMod/android_device_htc_msm8960-common",
     "target_path": "device/htc/msm8960-common"
-    "revision":    "kk4.4"
+    "revision":    "cm-11.0"
   }
 ]
