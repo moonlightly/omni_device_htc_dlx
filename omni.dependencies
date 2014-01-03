@@ -3,17 +3,24 @@
     "remote":      "github",
     "repository":  "wrapped/omni_device_htc_dlx",
     "target_path": "device/htc/dlx"
+    "revision":    "android-4.4"
   },
   {
-    "remote":      "github",
-    "repository":  "SlimRoms/android_kernel_htc_m7",
-    "target_path": "kernel/htc/m7",
-    "revision":    "kk4.4"
-  },
-  {
-    "remote":      "github",
-    "repository":  "SlimRoms/device_htc_msm8960-common",
+    "remote":      "omnirom",
+    "repository":  "android_device_htc_msm8960-common",
     "target_path": "device/htc/msm8960-common",
-    "revision":    "kk4.4"
+    "revision":    "android-4.4"
+  },
+  {
+    "remote":      "omnirom",
+    "repository":  "android_device_htc_m7-common",
+    "target_path": "device/htc/m7-common",
+    "revision":    "android-4.4"
+  },
+  {
+    "remote":      "omnirom",
+    "repository":  "android_kernel_htc_m7",
+    "target_path": "kernel/htc/m7",
+    "revision":    "android-4.4"
   }
 ]
